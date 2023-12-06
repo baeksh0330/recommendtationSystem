@@ -47,7 +47,11 @@ KNN and DecisionTreeClassifier, SVD
 <br>
 
 ### References
-[MEDIUM] Building a Movie Recommendation Engine in Python using Scikit-Learn<br>
+* [MEDIUM] Building a Movie Recommendation Engine in Python using Scikit-Learn<br>
 https://medium.com/code-heroku/building-a-movie-recommendation-engine-in-python-using-scikit-learn-c7489d7cb14 <br>
-[Kaggle] Game Recommendations on Steam <br>
+* [MEDIUM] Beginner’s Guide to Creating the SVD Recommender System
+https://towardsdatascience.com/beginners-guide-to-creating-an-svd-recommender-system-1fd7326d1f65 <br>
+* [Article] Using Singular Value Decomposition to Build a Recommender System
+https://machinelearningmastery.com/using-singular-value-decomposition-to-build-a-recommender-system/#:~:text=,result%20of%20singular%20value%20decomposition<br>
+* [Kaggle] Game Recommendations on Steam <br>
 https://www.kaggle.com/datasets/antonkozyriev/game-recommendations-on-steam
